@@ -12,6 +12,11 @@
   - Sakk
   - Csevegőrobot
   - Super Mario utánérzés
+- Honnan hallottál a szakkörről?
+  - Google hirdetés
+  - Plakát
+  - Facebook
+  - Ismerős ajánlotta
 
 ## Programozás
 
